@@ -1,7 +1,7 @@
 spec = Gem::Specification.new do |s|
   s.name = 'youtube-g'
   s.version = '0.4.9.9'
-  s.date = '2008-09-01'
+  s.date = '2008-10-16'
   s.summary = 'An object-oriented Ruby wrapper for the YouTube GData API'
   s.email = "ruby-youtube-library@googlegroups.com"
   s.homepage = "http://youtube-g.rubyforge.org/"
